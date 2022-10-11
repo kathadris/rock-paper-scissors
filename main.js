@@ -39,8 +39,9 @@ function getPlayerChoice () {   // Get player choice function
     } else {
         return playerChoice;
     }   
+   
 }
-
+console.log(getPlayerChoice);
 
 
 
